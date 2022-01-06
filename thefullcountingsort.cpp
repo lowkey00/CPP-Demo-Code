@@ -6,22 +6,22 @@ string ltrim(const string &);
 string rtrim(const string &);
 vector<string> split(const string &);
 
+int convertStringToInt(string num) {
+   int tmp = 0;
+   int len = num.length();
+   int x = len - 1;
+   for (int j = 0; j < len; j++) {
+       tmp += ((num[j] - '0') * pow(10, x));
+       x--;
+   }
+   return tmp;
+}
+
 /*
  * Complete the 'countSort' function below.
  *
  * The function accepts 2D_STRING_ARRAY arr as parameter.
  */
- 
- int convertStringToInt(string num) {
-    int tmp = 0;
-    int len = num.length();
-    int x = len - 1;
-    for (int j = 0; j < len; j++) {
-        tmp += ((num[j] - '0') * pow(10, x));
-        x--;
-    }
-    return tmp;
- }
 
 void countSort(vector<vector<string>> arr) {
     map<int, vector<string>> mp;
