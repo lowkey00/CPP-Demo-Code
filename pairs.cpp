@@ -24,6 +24,7 @@ int pairs(int k, vector<int> arr) {
         int tmp = i - k;
         if (mp[tmp] != 0) ans++;
     }
+    
     return ans;
 }
 
