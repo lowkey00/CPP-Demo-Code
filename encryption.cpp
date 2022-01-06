@@ -9,9 +9,8 @@ using namespace std;
  * The function accepts STRING s as parameter.
  */
  
- char temp[85][85];
-
 string encryption(string s) {
+    array<array<int, 85>, 85> temp;
     int len = s.length();
     double x = sqrt(len);
     int col = ceil(x);
