@@ -23,9 +23,8 @@ void almostSorted(vector<int> arr) {
         }
     }
     int err_t = err.size();
-    if (err_t == 2) {
-        cout << "yes\nswap " << err[0].first + 1 << " " << err[1].first + 1 << '\n';
-    } else {
+    if (err_t == 2) cout << "yes\nswap " << err[0].first + 1 << " " << err[1].first + 1 << '\n';
+    else {
         bool flag = false;
         for (int i = 0; i < err_t - 1; i++) {
             if (err[i].second < err[i + 1].second) {
