@@ -1,10 +1,10 @@
 # CPP-Demo-Code
 
-Hackerrank Problem Solving Problem
+Hackerrank Problem Solving Problems
 
 Hackerrank profile: https://www.hackerrank.com/nathanael_setio1?hr_r=1
 
-List problems solved:
+List of problems solved:
 1. [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?h_r=profile)
 2. [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem?h_r=profile)
 3. [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater?h_r=profile)
