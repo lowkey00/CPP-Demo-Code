@@ -24,5 +24,6 @@ List of problems solved:
 17. [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?h_r=profile)
 18. [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=profile)
 19. [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?h_r=profile)
-20. [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem?h_r=profile)
-21. [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?h_r=profile)
+20. [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_r=profile)
+21. [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem?h_r=profile)
+22. [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?h_r=profile)
